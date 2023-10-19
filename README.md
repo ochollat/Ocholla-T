@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on a login and signup template for any future projects to make the process seamless
 - 🌱 I’m currently learning authentication and vue3
-- :notebook: 2022 Goals: Contribute to open source projects
-- ⚡ Fun fact: I'm currently fulfilling my dream learning how to play guitar. Ask me to play for you Zombie by The Cranberries and only that :laughing:
+- :notebook: 2023 Goals: Make a difference using software.
+- ⚡ Fun fact: I'm currently fulfilling my dream of learning how to play guitar. Ask me to play for you Zombie by The Cranberries and only that :laughing:
 
 <br />
 
