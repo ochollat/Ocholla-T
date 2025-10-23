@@ -6,8 +6,7 @@
 ---
 
 I’m a full-stack developer passionate about building production-grade, secure, and observable systems.  
-I love working across the stack — from designing resilient backends in Java Spring Boot to crafting modern frontends with Next.js,  
-and ensuring everything runs smoothly in Dockerized, monitored environments.
+I love working across the stack — from designing resilient backends in Java Spring Boot to crafting modern frontends with Next.js, and ensuring everything runs smoothly in Dockerized, monitored environments.
 
 ---
 
