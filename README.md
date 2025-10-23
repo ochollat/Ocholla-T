@@ -1,9 +1,13 @@
-# Hi there, I'm Ocholla Tonny 👋
+# 💫 Ocholla Tonny
 
-### 💻 Full-Stack Developer | Java Spring Boot | Next.js | Docker | Observability Engineer
+### 💻 Full-Stack Developer  
+#### Java Spring Boot | Next.js | Docker | Observability Engineer  
+
+---
 
 I’m a full-stack developer passionate about building production-grade, secure, and observable systems.  
-I love working across the stack — from designing resilient backends in Java Spring Boot to crafting modern frontends with Next.js, and ensuring everything runs smoothly in Dockerized, monitored environments.
+I love working across the stack — from designing resilient backends in Java Spring Boot to crafting modern frontends with Next.js,  
+and ensuring everything runs smoothly in Dockerized, monitored environments.
 
 ---
 
@@ -31,7 +35,8 @@ I love working across the stack — from designing resilient backends in Java Sp
 ---
 
 ### ⚡ Fun Fact
-When I’m not debugging code, I’m probably debugging my guitar playing 🎸 — still working on “Zombie” by The Cranberries 😄
+When I’m not tuning performance metrics, I’m probably tuning my guitar 🎸 —  
+still working on *“Zombie”* by The Cranberries (progress is… measurable 😄).
 
 ---
 
