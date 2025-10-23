@@ -1,4 +1,4 @@
-# 💫 Ocholla Tonny
+# Ocholla Tonny
 
 ### 💻 Full-Stack Developer  
 #### Java Spring Boot | Next.js | Docker | Observability Engineer  
