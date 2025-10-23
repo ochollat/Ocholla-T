@@ -38,7 +38,7 @@ When I’m not debugging code, I’m probably debugging my guitar playing 🎸 �
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ocholla%20Tonny-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ochollatonny/)
-[![Email](https://img.shields.io/badge/Email-tonnyocholla.dev%40gmail.com-red?logo=gmail&logoColor=white)](mailto:tonnyocholla.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tonnyocholla8%40gmail.com-red?logo=gmail&logoColor=white)](mailto:tonnyocholla8@gmail.com)
 
 ---
 
@@ -75,8 +75,8 @@ When I’m not debugging code, I’m probably debugging my guitar playing 🎸 �
 
 ### 📊 GitHub Stats
 
-![Ocholla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ocholla-T&theme=github_dark&layout=compact&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ocholla-T&theme=github_dark&layout=compact)
+![Ocholla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ochollat&theme=github_dark&layout=compact&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ochollat&theme=github_dark&layout=compact)
 
 ---
 
